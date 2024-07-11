@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+/* *{
+ margin: 2px;
+ padding: 2px;
+ } */
+ #main-web{
+    width: 1252px;
+    height: 522px;
+    top: 111px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(iimages.2/hero-bg.png);
+ }
+ .main-web2{
+    text-align: center;
+    margin: 0 auto;
+ }
+ .title-i{
+    font-size: 44px;
+    color: rgb(7, 46, 241);
+    font-weight: 720;
+ }
+ .content-p{
+    font-size: 13px;
+    font-weight: 350;
+    color: rgb(19, 52, 238);
+ }
+ .button-style{
+    background-color: rgb(19, 64, 210);
+color: rgb(200, 150, 35);
+text-decoration: none;
+font-size: 21px;
+font-weight: bold;
+}
+.main-two{
+    margin: 80px, 95px, 75px, 90px;
+}
+.title-w{
+    text-align: center;
+    color: rgb(193, 240, 22);
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.title-d{
+    text-align: center; 
+    font-size: 14px;
+    color: rgb(148, 215, 25));
+}
+.title-two{
+    font-size: 24px;
+    color: rgb(16, 89, 225);
+}
+.main-three{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 80px 80px 97px 97px;
+}
+.btn-two{
+    background-color: rgb(70, 240, 110);
+    border-radius: none;
+}
+.img-three{
+    width: 240px;
+    height: 190;
+}
+.title-myi{
+    color: rgb(16, 219, 94);
+    font-size: 30px;
+    font-weight: bold;
+}
+.title-myp{
+    font-size: 16px;
+    color: rgb(103, 231, 44);
+}
+.main-foure{
+    text-align: center;
+}
+.mycurrentt{
+    font-size: 30px;
+    color: rgb(12, 17, 30);
+    text-align: center;
+    font-weight: bold;
+}
+.mycp{
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+    text-align: center;
+}
+.title-five{
+    font-size: 24px;
+    color: rgb(13, 19, 33);
+}
+.five-p{
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+}
+.href-five{
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+    font-weight: bold
+}
+.img-five{
+    width: 39.68px;
+    height: 45px;
+}
+.five-main{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.target-one{
+    background-color: rgba(255, 76, 30, 0.05);
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;   
+}
+.target-two{
+    background-color: rgba(0, 76, 232, 0.05);
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.target-three{
+    background-color: rgba(255, 223, 0, 0.05);
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.final-title{
+    font-size: 20px;
+    color: rgb(13, 19, 33);
+}
+#foter-final{
+    display: flex;
+    justify-content: space-between;
+    margin: 32px 150px 32px 150px; 
+    background-color: rgba(13, 19, 33, 0.03);
+    border-radius: none;
+    width: bold;
+    height: 90px;
+    width: 1200px;
+}
+.link-b{
+    margin-top: 10px;
+}
+
